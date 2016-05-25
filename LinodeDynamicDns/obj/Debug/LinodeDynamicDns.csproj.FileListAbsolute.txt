@@ -1,0 +1,8 @@
+C:\Dev\LinodeDynamicDns\LinodeDynamicDns\bin\Debug\LinodeDynamicDns.exe.config
+C:\Dev\LinodeDynamicDns\LinodeDynamicDns\bin\Debug\LinodeDynamicDns.exe
+C:\Dev\LinodeDynamicDns\LinodeDynamicDns\bin\Debug\LinodeDynamicDns.pdb
+C:\Dev\LinodeDynamicDns\LinodeDynamicDns\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\LinodeDynamicDns\LinodeDynamicDns\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\LinodeDynamicDns\LinodeDynamicDns\obj\Debug\LinodeDynamicDns.csprojResolveAssemblyReference.cache
+C:\Dev\LinodeDynamicDns\LinodeDynamicDns\obj\Debug\LinodeDynamicDns.exe
+C:\Dev\LinodeDynamicDns\LinodeDynamicDns\obj\Debug\LinodeDynamicDns.pdb
